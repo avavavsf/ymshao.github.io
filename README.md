@@ -1,2 +1,2 @@
 # ymshao.github.io
-This is the person academic webpage of Yunming Shao. 
+You can find my public project here, and more.
